@@ -12,3 +12,4 @@ console.log('Update');
 console.log('new Update');
 console.log('last Update');
 console.log('Auto-deploy test');
+console.log('Auto-deploy2 test');
